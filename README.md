@@ -80,3 +80,6 @@ This project demonstrates how Object-Oriented Programming concepts can be applie
 ## Project Status
 
 The Library Management System has been implemented and tested successfully.
+## Future Improvements
+
+The system can be improved in the future by adding a graphical user interface, login system, and additional library management features.
