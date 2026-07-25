@@ -1,0 +1,12 @@
+{
+    "books": [
+        {
+            "id": 66,
+            "title": "aayusha",
+            "author": "samir",
+            "available": true
+        }
+    ],
+    "members": [],
+    "issued_books": {}
+}
