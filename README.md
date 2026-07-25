@@ -77,3 +77,6 @@ This allows book and member information to remain available even after the progr
 ## Conclusion
 
 This project demonstrates how Object-Oriented Programming concepts can be applied to develop a simple and organized Library Management System. It also provides practical experience with inheritance, abstraction, encapsulation, exception handling, and JSON data persistence.
+## Project Status
+
+The Library Management System has been implemented and tested successfully.
